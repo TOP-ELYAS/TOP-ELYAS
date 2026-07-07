@@ -35,56 +35,78 @@ Junior Cybersecurity Specialist with hands-on experience in penetration testing,
 
 I enjoy understanding how modern systems operate, how attackers think, and how defensive strategies can be strengthened through structured analysis, practical testing, and continuous learning. My approach is hands-on and analytical — I'm drawn to technical fields that demand deep problem-solving and a methodical way of breaking down complex security challenges.
 
-My primary interests include **Security Operations (SOC)**, **Penetration Testing**, **Vulnerability Assessment**, **Digital Forensics**, **Network Security**, **Cloud Security**, **Cryptography**, and **Programming**.
+My primary interests include **Security Operations (SOC)**, **Penetration Testing**, **Vulnerability Assessment**, **Cryptography**, **Network Security**, **Digital Forensics**, **Cloud Security**, and **Programming**.
 
 I have practical knowledge of Information Gathering, Scanning, Exploitation, and vulnerability analysis from a security perspective, and I'm comfortable working across Linux environments to analyze system and network behavior during testing and assessments. My project background spans network simulations, Python applications including encryption systems, database design, and web development — all approached with a security-first mindset that connects how technologies interconnect and where their security implications lie.
 
-I believe that strong cybersecurity professionals never stop learning, documenting, and improving. Every project I build and every challenge I solve is another step toward becoming a more effective security professional — and I'm continuously working to deepen my expertise in SOC operations, digital forensics, cloud computing, and programming.
+I believe that strong cybersecurity professionals never stop learning, documenting, and improving. Every project I build and every challenge I solve is another step toward becoming a more effective security professional — and I'm continuously working to deepen my expertise in SOC operations, Cryptography, digital forensics, cloud computing, and programming.
 
 ---
 
-## 🔐 Featured Project — TopCypher
+## 🔐 Featured Project — TopCypher (Proprietary Architecture)
 <div align="center">
 
-**A full-stack cryptographic suite engineered from scratch**, built with Flask and designed around real cryptographic principles rather than off-the-shelf libraries alone.
+![Status: Closed Source](https://img.shields.io/badge/Status-Closed%20Source-red?style=flat-square&logo=github)
+![Development: Active & Ongoing](https://img.shields.io/badge/Development-Active%20%26%20Ongoing-success?style=flat-square&logo=git)
+![Architecture: Proprietary](https://img.shields.io/badge/Architecture-Proprietary-8A2BE2?style=flat-square&logo=shield)
 
-| Module | Description |
-|---|---|
-| 🔤 **Custom Polyalphabetic Cipher** | Proprietary text encryption system of my own design |
-| 🔒 **AES-256-GCM File Encryption** | Authenticated file-level encryption |
-| 🧮 **SHA-256 Integrity Hashing** | Data integrity verification |
-| 🗝️ **Password Vault** | Secure credential storage |
-| 🔑 **RSA-2048 Key Generation** | Asymmetric key infrastructure |
-| 💬 **Socket.IO E2E Encrypted Chat** | Real-time encrypted messaging |
+**A comprehensive, full-stack cryptographic suite engineered entirely from scratch over a period of 6+ months.** Built with Flask and designed around core cryptographic principles to ensure deep, structural security rather than relying solely on standard off-the-shelf wrappers.
 
-**Stack:** Flask · Werkzeug · Flask-SocketIO · python-socketio · eventlet · `cryptography`
+| Core Module | Technical Description |
+| :--- | :--- |
+| 🔤 **Custom Polyalphabetic Cipher** | Proprietary text encryption algorithm built with custom logic |
+| 🔒 **AES-256-GCM Encryption** | High-security, authenticated file-level encryption |
+| 🧮 **SHA-256 Integrity Hashing** | Robust data integrity verification mechanisms |
+| 🗝️ **Secure Password Vault** | Encrypted credential storage and management |
+| 🔑 **RSA-2048 Key Generation** | Implementation of asymmetric key infrastructure |
+| 💬 **E2E Encrypted Comm Channel** | Real-time encrypted messaging using Socket.IO |
 
-🔒 *This is a proprietary system built entirely from scratch. Full source code is kept private to protect the engineering effort behind it — a walkthrough, architecture overview, and demo are available on request for recruiters and collaborators.*
+**Tech Stack:** `Python` · `Flask` · `Werkzeug` · `Flask-SocketIO` · `Eventlet` · `Cryptography`
 
-> 📌 *Create a public "showcase" repository named `TopCypher` containing only a README (screenshots, architecture diagram, and this description) — keep the actual code in a separate private repository. Pin the showcase repo to your profile.*
+---
+
+### 🛡️ Why is this project Closed-Source?
+*TopCypher is an actively evolving project. The core architecture is the result of over 6 months of intense research, mathematical structuring, and software engineering, and it receives continuous updates.*
+
+*Due to the high value, custom algorithms, and proprietary nature of the system, the source code is kept strictly private to prevent unauthorized duplication or reuse.*
+
+**For Recruiters & Hiring Managers:** While the codebase remains confidential to protect the intellectual property behind it, I am fully prepared to discuss the system architecture, continuous integrations, cryptographic implementations, and technical challenges faced during development in technical interviews. A controlled demonstration or architectural overview can be provided upon request.
+
 </div>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Security & Testing**
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-black?style=flat-square&logo=hackaday&logoColor=00BFFF)
-![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability%20Assessment-black?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Cryptography-black?style=flat-square)
-![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-black?style=flat-square)
+### 🛡️ Security & Testing
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20%26%20InfoSec-000000?style=flat-square&logo=shield&logoColor=00BFFF)
+![Penetration Testing](https://img.shields.io/badge/Ethical%20Hacking%20%26%20Penetration%20Testing-black?style=flat-square&logo=hackaday&logoColor=00BFFF)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=lock&logoColor=00BFFF)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-000000?style=flat-square)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-black?style=flat-square)
 
-**Cloud & Networking**
-![AWS](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Networking](https://img.shields.io/badge/-Network%20Security-black?style=flat-square)
+### 🌐 Cloud & Networking
+![Network Security](https://img.shields.io/badge/Networking%20%26%20Network%20Security-black?style=flat-square&logo=wireshark&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-black?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20(CLF--C02)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems%20(Linux%20%26%20Windows)-black?style=flat-square&logo=linux&logoColor=white)
 
-**Programming & Tools**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 💻 Programming, Automation & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Agents & Automation](https://img.shields.io/badge/AI%20Agents%20%26%20Automation%20(n8n)-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![AI Fundamentals](https://img.shields.io/badge/AI%20Fundamentals-000000?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Web Development](https://img.shields.io/badge/HTML5%20%26%20CSS3%20(Web%20Design)-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office%20%26%20Access%20(ICDL)-2B579A?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+### 💼 Professional Operations & Core Skills
+![Technical Support](https://img.shields.io/badge/Technical%20Support%20%26%20Ticket%20Handling-black?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Analytical%20Problem%20Solving-black?style=flat-square)
+![Data Management](https://img.shields.io/badge/Data%20Management-black?style=flat-square)
+![Mentoring & Leadership](https://img.shields.io/badge/Team%20Leadership%20%26%20Mentoring-black?style=flat-square)
+![Communication](https://img.shields.io/badge/Professional%20Communication%20%26%20NLP-black?style=flat-square)
 
 ---
 
@@ -113,39 +135,58 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 
 ## 🚀 Professional Journey
 
-**🟢 2026 — Present · Customer Service Specialist**
-`Extensya`
-- Resolve 200+ customer support tickets and service requests monthly through internal platforms and specialized systems
-- Analyze escalated technical and operational issues, ensuring efficient resolution under pressure
-- Coordinate with cross-functional teams to improve response quality and workflow efficiency
+### 🟢 May 2026 — Present · Customer Service Specialist
+`Extensya` | *Full-Time · Amman, Jordan (On-Site)*
+- **Ticket Lifecycle & Resolution:** Handle and resolve 200+ customer support tickets and specialized service requests monthly through advanced internal platforms and system infrastructures.
+- **Problem Analysis & Escalations:** Diagnose user issues, manage highly escalated cases, and maintain strict SLA metrics under high-pressure operational environments.
+- **Cross-Functional Synergy:** Collaborate closely with cross-functional teams to monitor active workflows, enhance output response quality, and streamline overall process efficiency.
+- **Peer Operations Support:** Assist fellow colleagues in troubleshooting dense, system-related incidents and untangling complex operational challenges effectively.
+> **🛠️ Key Skills Gained:** Technical Support · Customer Service Operations · Problem Analysis · Ticket Handling · Workflow Coordination · Interpersonal Communication · Team Collaboration · Crisis Management.
 
-**🔴 2025 – 2026 · Penetration Testing & Ethical Hacking Trainee**
-`Tuned Applications`
-- Applied the full penetration testing lifecycle: Information Gathering → Enumeration → Scanning → Exploitation → Post-Exploitation
-- Performed web application security testing and privilege escalation using Kali Linux and command-line tooling
-- Authored 8 technical security reports documenting vulnerabilities and testing outcomes
-- Collaborated within a team to analyze and solve 10+ practical security challenges
+---
 
-**🟡 2025 – 2026 · Administrative & Sales Assistant**
-`Rafeef Water — Water Filling Station`
-- Processed 300+ daily customer transactions with high accuracy and accountability
-- Managed cash handling, inventory tracking, and day-to-day operational workflows
+### 🔴 September 2025 — February 2026 · Penetration Testing & Ethical Hacking Trainee
+`Tuned Applications` | *Internship · Jordan (On-Site)*
+- **Lifecycle Assessment:** Applied structured, full-scale offensive penetration testing methodologies encompassing: Information Gathering → Enumeration → Network Scanning → Exploitation → Post-Exploitation.
+- **Web App Testing & Privilege Escalation:** Executed meticulous Web Application Security Testing and advanced privilege escalation vectors utilizing custom command-line techniques and Kali Linux suites.
+- **Technical Reporting:** Independently compiled, structures, and documented 8 production-grade technical security reports based on detailed testing outcomes, root-cause analysis, and identified logical vulnerabilities.
+- **Collaborative Red Teaming:** Synced within a fast-paced defensive/offensive team environment to dissect vulnerabilities and reverse-engineer solutions for 10+ complex real-world security challenges.
+> **🛠️ Key Skills Gained:** Penetration Testing · Web Application Security Testing · Vulnerability Analysis · Security Reporting & Documentation · Kali Linux Operations · Analytical Problem Solving · Red Team Collaboration.
 
-**🟠 2025 · Sales and Service Employee**
-`Sameh Mall`
-- Supported operations across 5+ branches, assisting 80+ customers daily
-- Contributed to inventory and warehouse coordination across 4 storage units
+---
 
-**🔵 2024 – Present · Cybersecurity Diploma**
-`Zarqa Technical Intermediate College — Zarqa University`
-- Grade: Excellent · 12+ hands-on projects spanning network simulation, cryptography, Python scripting, and database design
-- Trained peers on technical concepts, strengthening both security fundamentals and communication skills
+### 🟡 July 2025 — May 2026 · Administrative & Sales Assistant
+`Rafeef Water (Water Filling Station)` | *Full-Time · Amman, Jordan (On-Site)*
+- **High-Volume Transactions:** Successfully processed and coordinated over 300+ financial and service customer transactions daily with absolute precision and accountability.
+- **Workflow & Process Optimization:** Established and maintained lean operational workflows, directly improving consistency and logistical throughput in day-to-day station operations.
+- **Financial Integrity:** Governed daily cash handling, secure payment processing, and ledger auditing with zero discrepancies under continuous operational pressure.
+- **Inventory Continuity:** Maintained real-time monitoring of product availability and structured warehouse organization to sustain non-stop operational continuity.
+> **🛠️ Key Skills Gained:** Sales Management · Account Management · Customer Service · Financial Accountability · Workflow Management · Time Optimization · Adaptability under Pressure.
+
+---
+
+### 🟠 January 2025 — June 2025 · Sales and Services Assistant
+`Sameh Mall` | *Full-Time · Amman, Jordan (On-Site)*
+- **Multi-Branch Operations:** Deployed and operated dynamically across 5+ distinct retail branches, adapting smoothly to diverse management frameworks and workflow conditions.
+- **Warehouse Logistics:** Contributed to critical warehouse coordination, layout management, and optimization across 4 massive distribution storage units to accelerate product flows.
+- **Inventory Systems:** Maintained full oversight of complex product displays, stock auditing, and digital localized pricing structures using central management tools.
+- **Direct Engagement:** Managed and assisted a high density of 80+ diverse customers daily, addressing operational inquiries and escalating complaints on the floor.
+> **🛠️ Key Skills Gained:** Inventory Management · Sales Operations · Warehouse Management Systems (WMS) · Teamwork & Logistics · Operational Adaptation · Customer Experience Management.
+
+---
+
+### 🔵 January 2024 — Present · Cybersecurity Program (Diploma)
+`Zarqa Technical Intermediate College — Zarqa University` | *Academic Portfolio · Zarqa, Jordan*
+- **Applied Curricula:** Focused deeply on the practical mechanics of securing modern enterprise architectures, data sets, enterprise operating systems, and network perimeters.
+- **Engineering Core:** Gained foundational and engineering knowledge in network routing/switching, system architecture, Python automation, cryptography, cloud computing concepts, and digital forensics.
+- **Hands-on Labs:** Successfully built and completed 12+ comprehensive practical projects covering network simulation, defensive Python scripting, cryptographic tools, and security-centric database structures.
+- **Technical Mentorship:** Acted as a peer-trainer to onboard and upskill classmates on technical labs, enhancing classroom security posture while refining mentoring and IT communication skills.
+> **🛠️ Key Skills Gained:** Information Security · Enterprise Networking · Penetration Testing · Cryptography · Python Automation · Web Architecture & Security Analysis · Digital Forensics · Technical Mentorship.
 
 ---
 
 <div align="center">
 
-  
   **📫 Contact Me**
 
 [LinkedIn](https://linkedin.com/in/elyasghanim) · [elyasghanim@gmail.com](mailto:elyasghanim@gmail.com) · [GitHub](https://github.com/TOP-ELYAS)
