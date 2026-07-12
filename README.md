@@ -165,7 +165,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 
 ---
 
-### 🟠 January 2025 — June 2025 · Sales and Services Assistant
+### 🟠 January 2024 — June 2025 · Sales and Services Assistant
 `Sameh Mall` | *Full-Time · Amman, Jordan (On-Site)*
 - **Multi-Branch Operations:** Deployed and operated dynamically across 5+ distinct retail branches, adapting smoothly to diverse management frameworks and workflow conditions.
 - **Warehouse Logistics:** Contributed to critical warehouse coordination, layout management, and optimization across 4 massive distribution storage units to accelerate product flows.
