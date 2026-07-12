@@ -8,6 +8,7 @@
 Cybersecurity • Network • Penetration Testing • SOC • Cryptography • Programming • Digital Forensics • Cloud Security
  
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elyasghanim)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyasghanim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOP-ELYAS)
@@ -15,10 +16,11 @@ Cybersecurity • Network • Penetration Testing • SOC • Cryptography • P
 </div>
 
 ---
- 
-## 🏆 Certified Associate Penetration Tester (CAPT)
- 
+
 <div align="center">
+
+## 🏆 Certified Associate Penetration Tester (CAPT)
+  
 ### 🇯🇴 #1 in Jordan &nbsp;|&nbsp; 🌍 #7 Global
  
 *Hackviser Certified Associate Penetration Tester — ranked among the top security testers on the platform.*
@@ -26,8 +28,10 @@ Cybersecurity • Network • Penetration Testing • SOC • Cryptography • P
 </div>
 
 ---
+
+<div align="center">
  
-## 👨‍💻 Who Am I
+### 👨‍💻 Who Am I
  
 Junior Cybersecurity Specialist with hands-on experience in penetration testing, vulnerability assessment, fraud and risk investigation, and technical problem-solving. I'm passionate about understanding attacker methodologies and strengthening defensive security practices, with a proven ability to document security findings, troubleshoot technical issues, and collaborate effectively within fast-paced environments.
  
@@ -38,11 +42,15 @@ My primary interests include **Security Operations (SOC)**, **Penetration Testin
 I have practical knowledge of Information Gathering, Scanning, Exploitation, and vulnerability analysis from a security perspective, and I'm comfortable working across Linux environments to analyze system and network behavior during testing and assessments. My project background spans network simulations, Python applications including encryption systems, database design, and web development — all approached with a security-first mindset that connects how technologies interconnect and where their security implications lie.
  
 I believe that strong cybersecurity professionals never stop learning, documenting, and improving. Every project I build and every challenge I solve is another step toward becoming a more effective security professional — and I'm continuously working to deepen my expertise in SOC operations, Cryptography, digital forensics, cloud computing, and programming.
- 
+
+</div>
+
 ---
- 
-## 🔐 Featured Project — TopCypher (Proprietary Architecture)
+
 <div align="center">
+  
+### 🔐 Featured Project — TopCypher (Proprietary Architecture)
+ 
 ![Status: Closed Source](https://img.shields.io/badge/Status-Closed%20Source-red?style=flat-square&logo=github)
 ![Development: Active & Ongoing](https://img.shields.io/badge/Development-Active%20%26%20Ongoing-success?style=flat-square&logo=git)
 ![Architecture: Proprietary](https://img.shields.io/badge/Architecture-Proprietary-8A2BE2?style=flat-square&logo=shield)
@@ -72,8 +80,10 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 </div>
 
 ---
- 
-## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### 🛠️ Skills & Technologies
  
 ### 🛡️ Security & Testing
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20%26%20InfoSec-000000?style=flat-square&logo=shield&logoColor=00BFFF)
@@ -104,10 +114,12 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 ![Data Management](https://img.shields.io/badge/Data%20Management-black?style=flat-square)
 ![Mentoring & Leadership](https://img.shields.io/badge/Team%20Leadership%20%26%20Mentoring-black?style=flat-square)
 ![Communication](https://img.shields.io/badge/Professional%20Communication%20%26%20NLP-black?style=flat-square)
- 
+  
+</div>
+
 ---
  
-## 🎓 Education & Certifications
+### 🎓 Education & Certifications
  
 **Diploma**
 - 🎓 **Cybersecurity Diploma** — Zarqa Technical Intermediate College · Grade: Excellent
