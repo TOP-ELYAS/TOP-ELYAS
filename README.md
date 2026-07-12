@@ -123,6 +123,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
  
 **Diploma**
 - 🎓 **Cybersecurity Diploma** — Zarqa Technical Intermediate College · Grade: Excellent
+
 **Professional Certifications**
 - 🏅 **CAPT** — Certified Associate Penetration Tester (Hackviser) — #1 Jordan 🇯🇴 / #7 Global 🌍
 - 🕵️ **Penetration Testing & Ethical Hacking** — Tuned Applications (45 hours)
@@ -130,6 +131,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 - 💻 **ICDL** — International Computer Driving License
 - 🛡️ **Cyber Security Associate** — Green Circle for Cybersecurity
 - 🤖 **Artificial Intelligence Fundamentals** — Udacity
+
 **Technical Workshops Program — Qafza Tech**
 - 🤖 Automation Using n8n
 - 📊 Data Management Foundation
@@ -192,6 +194,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 ---
  
 <div align="center">
+ 
   **📫 Contact Me**
  
 [LinkedIn](https://linkedin.com/in/elyasghanim) · [elyasghanim@gmail.com](mailto:elyasghanim@gmail.com) · [GitHub](https://github.com/TOP-ELYAS)
