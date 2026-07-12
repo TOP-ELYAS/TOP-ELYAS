@@ -1,5 +1,7 @@
 <div align="center">
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=Cybersecurity+Specialist;Networking+%26+Network+Security;Penetration+Testing+%26+Vulnerability+Assessment;SOC+%26+Threat+Hunting+Analyst;Programming+%26+Web+Development;Cryptography+%E2%80%A2+Digital+Forensics+%E2%80%A2+Cloud+Security;Always+Learning+%E2%80%A2+Always+Improving" alt="Typing SVG" />
+
 # ELYAS GHANIM
 ### Junior Cybersecurity Specialist
  
@@ -11,6 +13,7 @@ Cybersecurity • Network • Penetration Testing • SOC • Cryptography • P
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOP-ELYAS)
  
 </div>
+
 ---
  
 ## 🏆 Certified Associate Penetration Tester (CAPT)
@@ -21,6 +24,7 @@ Cybersecurity • Network • Penetration Testing • SOC • Cryptography • P
 *Hackviser Certified Associate Penetration Tester — ranked among the top security testers on the platform.*
  
 </div>
+
 ---
  
 ## 👨‍💻 Who Am I
@@ -66,6 +70,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 **For Recruiters & Hiring Managers:** While the codebase remains confidential to protect the intellectual property behind it, I am fully prepared to discuss the system architecture, continuous integrations, cryptographic implementations, and technical challenges faced during development in technical interviews. A controlled demonstration or architectural overview can be provided upon request.
  
 </div>
+
 ---
  
 ## 🛠️ Skills & Technologies
@@ -182,4 +187,3 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 *Always learning. Always evolving.* 💫
  
 </div>
- 
