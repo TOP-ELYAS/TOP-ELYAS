@@ -155,7 +155,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 
 ---
 
-### 🟡 July 2025 — May 2026 · Administrative & Sales Assistant
+### 🟡 July 2025 — July 2026 · Administrative & Sales Assistant
 `Rafeef Water (Water Filling Station)` | *Full-Time · Amman, Jordan (On-Site)*
 - **High-Volume Transactions:** Successfully processed and coordinated over 300+ financial and service customer transactions daily with absolute precision and accountability.
 - **Workflow & Process Optimization:** Established and maintained lean operational workflows, directly improving consistency and logistical throughput in day-to-day station operations.
