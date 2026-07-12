@@ -134,14 +134,14 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 ---
 
 ## 🚀 Professional Journey
-
-### 🟢 May 2026 — Present · Customer Service Specialist
+### 🟢 May 2026 — Present · Fraud & Risk Operations Analyst
 `Extensya` | *Full-Time · Amman, Jordan (On-Site)*
-- **Ticket Lifecycle & Resolution:** Handle and resolve 200+ customer support tickets and specialized service requests monthly through advanced internal platforms and system infrastructures.
-- **Problem Analysis & Escalations:** Diagnose user issues, manage highly escalated cases, and maintain strict SLA metrics under high-pressure operational environments.
-- **Cross-Functional Synergy:** Collaborate closely with cross-functional teams to monitor active workflows, enhance output response quality, and streamline overall process efficiency.
-- **Peer Operations Support:** Assist fellow colleagues in troubleshooting dense, system-related incidents and untangling complex operational challenges effectively.
-> **🛠️ Key Skills Gained:** Technical Support · Customer Service Operations · Problem Analysis · Ticket Handling · Workflow Coordination · Interpersonal Communication · Team Collaboration · Crisis Management.
+- **Fraud & Risk Investigation:** Analyze lifetime order history, refund/compensation trends, linked devices, and associated accounts to detect suspicious behavior and safeguard account integrity.
+- **High-Volume Case Management:** Handle 250+ complex tickets daily, applying evidence-based evaluation for refund/compensation eligibility and conducting outbound calls to clarify ambiguous cases.
+- **Operational Excellence:** Consistently exceed key performance benchmarks — QA, CSAT, AHT, APT, AWT, AOH — while maintaining top-tier performance under high-pressure conditions.
+- **Mentorship & SOP Guidance:** Serve as a subject-matter expert for the team, providing hands-on guidance on SOPs and complex investigation workflows.
+- **Cross-Functional Collaboration:** Leverage specialized internal platforms to map account relationships, monitor workflows, and streamline end-to-end service delivery.
+> **🛠️ Key Skills Gained:** Fraud & Risk Investigation · Account Integrity Analysis · Evidence-Based Evaluation · KPI Performance Optimization · SOP Development & Mentoring · Cross-Functional Collaboration.
 
 ---
 
