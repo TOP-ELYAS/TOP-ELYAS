@@ -142,14 +142,25 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 ---
  
 ## 🚀 Professional Journey
-### 🟢 May 2026 — Present · Fraud & Risk Operations Analyst
-`Extensya` | *Full-Time · Amman, Jordan (On-Site)*
-- **Fraud & Risk Investigation:** Analyze lifetime order history, refund/compensation trends, linked devices, and associated accounts to detect suspicious behavior and safeguard account integrity.
-- **High-Volume Case Management:** Handle 250+ complex tickets daily, applying evidence-based evaluation for refund/compensation eligibility and conducting outbound calls to clarify ambiguous cases.
-- **Operational Excellence:** Consistently exceed key performance benchmarks — QA, CSAT, AHT, APT, AWT, AOH — while maintaining top-tier performance under high-pressure conditions.
-- **Mentorship & SOP Guidance:** Serve as a subject-matter expert for the team, providing hands-on guidance on SOPs and complex investigation workflows.
-- **Cross-Functional Collaboration:** Leverage specialized internal platforms to map account relationships, monitor workflows, and streamline end-to-end service delivery.
-> **🛠️ Key Skills Gained:** Fraud & Risk Investigation · Account Integrity Analysis · Evidence-Based Evaluation · KPI Performance Optimization · SOP Development & Mentoring · Cross-Functional Collaboration.
+
+### 🟢 April 2026 — Present · Extensya
+`Full-Time · Amman, Jordan (On-Site)`
+
+**Fraud & Risk Operations Analyst** — *June 2026 — Present*
+- **Fraud & Risk Investigation:** Investigate fraud and risk cases by examining full account history, comparing short- and long-term refund/compensation patterns, and tracing linked devices and associated accounts to uncover suspicious behavior and protect account integrity.
+- **High-Volume Case Management:** Manage 250+ complex cases daily, applying evidence-based judgment to determine refund and compensation eligibility, and reaching out to customers directly by phone whenever additional clarity is needed to reach the right resolution.
+- **Operational Excellence:** Consistently exceed key performance benchmarks — QA, CSAT, AHT, APT, AWT, and AOH — even under high-pressure, fast-paced conditions.
+- **Mentorship & SOP Guidance:** Serve as a go-to resource and mentor for the team, guiding colleagues through SOPs and complex investigation scenarios to maintain consistent, high-quality outcomes.
+- **Cross-Functional Collaboration:** Work across specialized internal platforms to map account relationships, monitor operational workflows, and collaborate with cross-functional teams to keep service delivery efficient end-to-end.
+> **🛠️ Key Skills Gained:** Fraud & Risk Investigation · Account Integrity Analysis · Evidence-Based Evaluation · Technical Support · Customer Support · Communication · Problem Solving.
+
+**Customer Service Specialist** — *April 2026 — June 2026*
+- **Technical & Operational Support:** Provided technical and operational support through specialized internal systems, resolving user issues while ensuring accurate and timely service delivery.
+- **High-Volume Ticket Handling:** Managed 200+ customer support tickets daily across specialized internal platforms, maintaining high service quality while prioritizing cases and meeting performance targets in a fast-paced environment.
+- **Root Cause Analysis:** Investigated customer-reported issues, performed root cause analysis, and managed escalated cases by following structured operational procedures.
+- **Workflow Coordination:** Worked across multiple internal platforms to process service requests, monitor workflows, and maintain operational continuity in a high-volume environment.
+- **Cross-Team Collaboration:** Collaborated with cross-functional teams and supported colleagues in troubleshooting system-related and operational issues to achieve efficient case resolution.
+> **🛠️ Key Skills Gained:** Teamwork · Customer Service · Technical Troubleshooting · Workflow Coordination · Analytical Problem Solving.
  
 ---
  
