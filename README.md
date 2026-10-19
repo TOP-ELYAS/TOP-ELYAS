@@ -139,17 +139,17 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 - 🔗 Personal Branding on LinkedIn with AI
 - 🧠 Introduction to NLP
 - 📈 Data Analysis Using Power BI
+
 ---
  
 ## 🚀 Professional Journey
-
-
+ 
 ### 🔵 January 2024 — Present · Cybersecurity Program
 `Zarqa University + Zarqa Technical Intermediate College` | *Academic · Zarqa, Jordan*
-- **Applied Security Training:** Studied cybersecurity with a hands-on focus on securing systems, networks, and data, with SOC and IT support as the target career path.
-- **Technical Foundation:** Built strong skills in networking, operating systems, Python automation, cryptography, digital forensics, and cloud computing.
-- **Hands-on Projects:** Completed 12+ practical projects spanning network simulation, Python scripting, cryptographic tools, database design, and security-focused web development, backed by vulnerability analysis and technical reporting.
-- **Peer Mentoring:** Trained classmates through technical labs, strengthening mentoring, IT communication, and problem-solving skills.
+- **Applied Security Training:** Studied cybersecurity with a practical focus on securing systems, networks, and data, building a solid base for SOC and IT support roles.
+- **Technical Foundation:** Developed strong skills in networking, operating systems, Python, cryptography, digital forensics, and cloud computing through lab-driven coursework.
+- **Hands-on Projects:** Delivered 12+ practical projects spanning network simulation, Python scripting, cryptographic tools, database design, and security-focused web development, supported by vulnerability analysis and technical reporting.
+- **Peer Mentoring:** Guided classmates through technical labs and concepts, strengthening mentoring, IT communication, and problem-solving abilities.
 > **🛠️ Key Skills Gained:** Information Security · Networking · Penetration Testing · Python · Cryptography · Web Development · Kali Linux · Digital Forensics · IT Troubleshooting · Technical Mentoring · Operating Systems · Cloud Computing.
  
 ---
@@ -158,51 +158,51 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 `Full-Time · Amman, Jordan (On-Site)`
  
 **Fraud & Risk Operations Analyst** — *June 2026 — Present*
-- **Fraud & Risk Investigation:** Investigate suspicious activity by reviewing complete account history, comparing short- and long-term refund and compensation patterns, and tracing linked devices and associated accounts to protect account integrity.
-- **High-Volume Case Management:** Handle 250+ complex cases daily, making evidence-based decisions on refund and compensation eligibility and calling customers directly whenever more detail is needed to reach the right resolution.
-- **Root Cause Analysis & Troubleshooting:** Resolve escalated, user-reported operational and system-related issues by tracing problems to their source across specialized internal platforms.
-- **Mentorship & SOP Guidance:** Act as a go-to resource for teammates, guiding them through SOPs, internal tools, and complex investigation scenarios to keep outcomes consistent and high-quality.
-- **Operational Excellence:** Consistently exceed key performance benchmarks — QA, CSAT, AHT, APT, AWT, and AOH — in a high-volume, fast-paced environment.
+- **Fraud & Risk Investigation:** Investigate suspicious behavior by examining full account history, comparing short- and long-term refund and compensation patterns, and tracing linked devices and associated accounts to protect account integrity.
+- **High-Volume Case Management:** Handle 250+ complex cases daily, applying evidence-based judgment to refund and compensation eligibility, and phoning customers directly whenever extra clarity is needed to reach the right resolution.
+- **Troubleshooting & Team Mentorship:** Resolve escalated, user-reported operational and system-related issues through root cause analysis, while serving as a go-to resource for teammates and guiding them through SOPs and complex investigation scenarios.
+- **Operational Excellence:** Work across specialized internal platforms to map account relationships and monitor workflows, while consistently exceeding key benchmarks — QA, CSAT, AHT, APT, AWT, and AOH — in a fast-paced, high-volume environment.
 > **🛠️ Key Skills Gained:** Fraud & Risk Investigation · Account Integrity Analysis · Evidence-Based Decision Making · Root Cause Analysis · Technical Troubleshooting · IT Support · Team Knowledge Sharing.
  
 **Customer Service Specialist** — *April 2026 — June 2026*
-- **Technical & Operational Support:** Delivered technical and operational support through specialized internal systems, resolving user issues accurately and on time.
-- **High-Volume Ticket Handling:** Managed 200+ support tickets daily across internal platforms, prioritizing cases and meeting performance targets in a fast-paced environment.
-- **Root Cause Analysis:** Investigated customer-reported issues, identified their root causes, and handled escalated cases following structured operational procedures.
-- **Workflow Coordination:** Worked across multiple internal platforms and with cross-functional teams to process requests, monitor workflows, and troubleshoot system-related issues.
+- **Technical & Operational Support:** Provided technical and operational support through specialized internal systems, resolving user issues with accuracy and speed.
+- **High-Volume Ticket Handling:** Managed 200+ support tickets daily across internal platforms, prioritizing cases and meeting performance targets in a fast-paced setting.
+- **Root Cause Analysis:** Investigated customer-reported issues, traced them to their root causes, and handled escalated cases by following structured operational procedures.
+- **Workflow Coordination:** Worked across multiple internal platforms and alongside cross-functional teams to process requests, monitor workflows, and troubleshoot system-related issues.
 > **🛠️ Key Skills Gained:** Customer Service · Technical Troubleshooting · Ticket Management · Workflow Coordination · Teamwork.
  
 ---
  
 ### 🔴 September 2025 — February 2026 · Penetration Testing & Ethical Hacking Trainee
 `Tuned Applications` | *Internship · Jordan (On-Site)*
-- **Penetration Testing Lifecycle:** Applied a structured methodology in realistic hands-on environments: Information Gathering → Enumeration → Scanning → Exploitation → Post-Exploitation.
-- **Web App Testing & Privilege Escalation:** Performed Web Application Security Testing and privilege escalation using Kali Linux tools and command-line techniques, analyzing network services, protocols, and system behavior to uncover exploitable weaknesses and misconfigurations.
+- **Penetration Testing Lifecycle:** Practiced a structured methodology in realistic hands-on environments, covering Information Gathering → Enumeration → Scanning → Exploitation → Post-Exploitation.
+- **Web App Testing & Privilege Escalation:** Carried out Web Application Security Testing and privilege escalation using Kali Linux tools and command-line techniques, analyzing network services, protocols, and system behavior to uncover exploitable weaknesses and misconfigurations.
 - **Technical Reporting:** Prepared and documented 8 technical security reports covering testing results, analysis, and identified vulnerabilities.
-- **Team Problem-Solving:** Worked with teammates to analyze vulnerabilities and solve 10+ practical security challenges.
+- **Team Problem-Solving:** Collaborated with teammates to analyze vulnerabilities and solve 10+ security challenges in practical scenarios.
 > **🛠️ Key Skills Gained:** Penetration Testing · Web Application Security Testing · Vulnerability Analysis · Privilege Escalation · Security Reporting & Documentation · Kali Linux Operations · Network Security · Team Collaboration.
  
 ---
  
 ### 🟡 July 2025 — July 2026 · Administrative & Sales Assistant
 `Rafeef Water (Water Filling Station)` | *Full-Time · Amman, Jordan (On-Site)*
-- **High-Volume Transactions:** Handled 300+ customer transactions daily with speed, accuracy, and accountability, resolving customer inquiries along the way.
-- **Financial Integrity:** Managed daily cash handling and payment processing with high accuracy, supporting financial integrity.
-- **Workflow & Inventory:** Maintained organized workflows and monitored inventory to keep daily operations consistent and efficient.
-- **Teamwork Under Pressure:** Collaborated within a fast-paced team, demonstrating adaptability and time management.
+- **High-Volume Transactions:** Processed 300+ customer transactions daily with speed, accuracy, and accountability, resolving customer inquiries along the way.
+- **Financial Integrity:** Managed daily cash handling and payment processing with high accuracy, supporting financial integrity across the station's operations.
+- **Workflow & Inventory:** Kept workflows organized and monitored inventory to maintain consistent, efficient day-to-day operations.
+- **Teamwork Under Pressure:** Collaborated within a fast-paced team, demonstrating adaptability, multitasking, and time management.
 > **🛠️ Key Skills Gained:** Customer Service · Cash Handling & Payment Processing · Account Management · Sales Management · Quality Management · Leadership · Adaptability in Fast-Paced Settings.
  
 ---
  
 ### 🟠 January 2024 — June 2025 · Sales and Services Assistant
 `Sameh Mall` | *Full-Time · Amman, Jordan (On-Site)*
-- **Multi-Branch Operations:** Worked across 5+ retail branches, covering roles from sales to warehouse coordination in diverse operating environments.
+- **Multi-Branch Operations:** Worked across 5+ retail branches, adapting to diverse operating environments while covering roles from sales to warehouse coordination.
 - **Team Leadership:** Led and supervised colleagues in their daily roles, supporting consistent service quality and smooth day-to-day operations.
 - **Customer Support:** Assisted 80+ customers daily, using internal systems to look up product details, availability, and pricing while resolving inquiries and handling complaints.
-- **Warehouse & Inventory Management:** Coordinated 4 storage units while managing inventory, product displays, and digital pricing systems with high accuracy.
+- **Warehouse & Inventory Management:** Organized and coordinated 4 storage units while managing inventory, product displays, and digital pricing systems with high accuracy.
 > **🛠️ Key Skills Gained:** Customer Service · Team Leadership · Inventory Management · Warehouse Management Systems · Sales Operations · Operational Coordination.
  
 ---
+
  
 <div align="center">
  
