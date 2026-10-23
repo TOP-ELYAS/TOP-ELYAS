@@ -33,15 +33,12 @@ Cybersecurity • Network • Penetration Testing • SOC • Cryptography • P
  
 ### 👨‍💻 Who Am I
  
-Junior Cybersecurity Specialist with hands-on experience in penetration testing, vulnerability assessment, fraud and risk investigation, and technical problem-solving. I'm passionate about understanding attacker methodologies and strengthening defensive security practices, with a proven ability to document security findings, troubleshoot technical issues, and collaborate effectively within fast-paced environments.
+Junior Cybersecurity Specialist with hands-on experience in penetration testing, vulnerability assessment, fraud and risk investigation, and technical problem-solving. I'm passionate about understanding attacker methodologies and strengthening defensive security practices, and I bring the same analytical mindset to real-world fraud and risk investigation — analyzing account behavior, transaction patterns, and linked-device data to detect and prevent suspicious activity.
  
-I enjoy understanding how modern systems operate, how attackers think, and how defensive strategies can be strengthened through structured analysis, practical testing, and continuous learning. Beyond offensive security, I've applied this same analytical mindset to real-world fraud and risk investigation — analyzing account behavior, transaction patterns, and linked-device data to detect and prevent suspicious activity. My approach is hands-on and analytical — I'm drawn to technical fields that demand deep problem-solving and a methodical way of breaking down complex security challenges.
+I have practical knowledge of Information Gathering, Scanning, Exploitation, and vulnerability analysis, and I'm comfortable working across Linux environments to analyze system and network behavior during testing and assessments. My project background spans network simulations, Python applications including encryption systems, database design, and web development — all approached with a security-first mindset.
  
-My primary interests include **Security Operations (SOC)**, **Penetration Testing**, **Vulnerability Assessment**, **Cryptography**, **Network Security**, **Digital Forensics**, **Cloud Security**, and **Programming**.
- 
-I have practical knowledge of Information Gathering, Scanning, Exploitation, and vulnerability analysis from a security perspective, and I'm comfortable working across Linux environments to analyze system and network behavior during testing and assessments. My project background spans network simulations, Python applications including encryption systems, database design, and web development — all approached with a security-first mindset that connects how technologies interconnect and where their security implications lie.
- 
-I believe that strong cybersecurity professionals never stop learning, documenting, and improving. Every project I build and every challenge I solve is another step toward becoming a more effective security professional — and I'm continuously working to deepen my expertise in SOC operations, Cryptography, digital forensics, cloud computing, and programming.
+My primary interests include **Security Operations (SOC)**, **Penetration Testing**, **Vulnerability Assessment**, **Cryptography**, **Network Security**, **Digital Forensics**, **Cloud Security**, and **IT Support**. I'm continuously working to deepen my expertise in these areas, because strong cybersecurity professionals never stop learning, documenting, and improving.
+
 
 </div>
 
@@ -59,7 +56,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
  
 | Core Module | Technical Description |
 | :--- | :--- |
-| 🔤 **Custom Polyalphabetic Cipher** | Proprietary text encryption algorithm built with custom logic |
+| 🔤 **Custom Polyalphabetic Cipher** | Custom polyalphabetic text cipher designed and implemented from scratch |
 | 🔒 **AES-256-GCM Encryption** | High-security, authenticated file-level encryption |
 | 🧮 **SHA-256 Integrity Hashing** | Robust data integrity verification mechanisms |
 | 🗝️ **Secure Password Vault** | Encrypted credential storage and management |
@@ -67,7 +64,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 | 💬 **E2E Encrypted Comm Channel** | Real-time encrypted messaging using Socket.IO |
  
 **Tech Stack:** `Python` · `Flask` · `Werkzeug` · `Flask-SocketIO` · `Eventlet` · `Cryptography`
- 
+
 ---
  
 ### 🛡️ Why is this project Closed-Source?
@@ -113,6 +110,7 @@ I believe that strong cybersecurity professionals never stop learning, documenti
 ![Problem Solving](https://img.shields.io/badge/Analytical%20Problem%20Solving-black?style=flat-square)
 ![Data Management](https://img.shields.io/badge/Data%20Management-black?style=flat-square)
 ![Mentoring & Leadership](https://img.shields.io/badge/Team%20Leadership%20%26%20Mentoring-black?style=flat-square)
+![IT Support](https://img.shields.io/badge/IT%20Support%20%26%20Troubleshooting-black?style=flat-square)
 ![Communication](https://img.shields.io/badge/Professional%20Communication%20%26%20NLP-black?style=flat-square)
   
 </div>
@@ -121,13 +119,14 @@ I believe that strong cybersecurity professionals never stop learning, documenti
  
 ### 🎓 Education & Certifications
  
-**Diploma**
-- 🎓 **Cybersecurity Diploma** — Zarqa Technical Intermediate College · Grade: Excellent
+**Education**
+- 🎓 **Bachelor's Degree in Cybersecurity** — Zarqa University · June 2026 — Present
+- 🎓 **Diploma Degree in Cybersecurity** — Zarqa Technical Intermediate College · Grade: Excellent
 
-**Professional Certifications**
-- 🏅 **CAPT** — Certified Associate Penetration Tester (Hackviser) — #1 Jordan 🇯🇴 / #7 Global 🌍
+**Certifications & Courses**
+- 🏅 **CAPT** — Certified Associate Penetration Tester (Hackviser)
 - 🕵️ **Penetration Testing & Ethical Hacking** — Tuned Applications (45 hours)
-- ☁️ **AWS Cloud Practitioner (CLF-C02)** — INJAZ
+- ☁️ **AWS Cloud Practitioner (CLF-C02) Course** — INJAZ (20 hours)
 - 💻 **ICDL** — International Computer Driving License
 - 🛡️ **Cyber Security Associate** — Green Circle for Cybersecurity
 - 🤖 **Artificial Intelligence Fundamentals** — Udacity
