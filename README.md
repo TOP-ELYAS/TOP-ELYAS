@@ -72,7 +72,7 @@ My primary interests include **Security Operations (SOC)**, **Penetration Testin
  
 *Due to the high value, custom algorithms, and proprietary nature of the system, the source code is kept strictly private to prevent unauthorized duplication or reuse.*
  
-**For Recruiters & Hiring Managers:** While the codebase remains confidential to protect the intellectual property behind it, I am fully prepared to discuss the system architecture, continuous integrations, cryptographic implementations, and technical challenges faced during development in technical interviews. A controlled demonstration or architectural overview can be provided upon request.
+*For Recruiters & Hiring Managers: While the codebase remains confidential to protect the intellectual property behind it, I am fully prepared to discuss the system architecture, continuous integrations, cryptographic implementations, and technical challenges faced during development in technical interviews. A controlled demonstration or architectural overview can be provided upon request.*
  
 </div>
 
