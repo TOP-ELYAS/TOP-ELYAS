@@ -141,6 +141,18 @@ My primary interests include **Security Operations (SOC)**, **Penetration Testin
 
 ---
  
+## 🏛️ Leadership & Student Activities
+ 
+### 🔵 October 2026 — Present · Media Lead
+`IEEE Computer Society – Zarqa University Student Chapter` | *Student Leadership · Zarqa, Jordan*
+- **Media & Communications:** Contribute to the chapter's media presence and visual communication, supporting the promotion of student initiatives and technical events.
+- **Content Creation:** Develop creative content that showcases the chapter's activities, initiatives, and events to its members and the wider community.
+- **Branding & Consistency:** Help maintain a consistent visual identity across the chapter's media platforms.
+- **Team Collaboration:** Work alongside fellow chapter members to support media initiatives, event coverage, and organizational activities.
+> **🛠️ Key Skills:** Media Management · Visual Communication · Content Creation · Teamwork · Leadership · Event Promotion.
+ 
+---
+ 
 ## 🚀 Professional Journey
  
 ### 🔵 January 2024 — Present · Cybersecurity Program
